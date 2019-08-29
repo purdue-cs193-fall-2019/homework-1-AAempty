@@ -1,4 +1,9 @@
 ## Welcome to GitHub Pages
+# Michael Taylor's First CS193 Homework
+
+# Favorite Part of CS193
+- Learning skills besides coding that will help in future jobs
+- Getting a better understanding of CS
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
